@@ -1,4 +1,4 @@
-Projeto de extenção.
+Projeto de extenção Full-Stack.
 
 Nesse projeto foi idealizado a criação de uma aplicação web com funcionalidades para auxiliar pequenos empreendimentos a terem cardápios online,
 com as opções de adesão, exclusão, editar e filtrar itens do cardápio que o cliente que utilizar a aplicação no seu restaurante pode colocar.
