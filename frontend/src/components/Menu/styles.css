@@ -1,0 +1,62 @@
+
+
+.menu-item__delete-btn {
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    background: none;
+    border: none;
+    font-size: 1.2rem;
+    cursor: pointer;
+    padding: 5px;
+    line-height: 1;
+}
+
+.menu-item {
+    position: relative;
+    width: 300px;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.menu-item__name,
+.menu-item__price,
+.menu-item__description {
+    margin: 0;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.menu-item__name {
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.menu-item__price {
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+.menu-item__save-btn {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+.menu-item__edit-btn {
+    position: absolute;
+    top: 5px;
+    right: 30px;
+    background: none;
+    border: none;
+    font-size: 1.2rem;
+    cursor: pointer;
+    padding: 5px;
+    line-height: 1;
+}
